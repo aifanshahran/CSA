@@ -1,1 +1,1 @@
-
+Write a program with indexed addressing that calculates the sum of all the gaps between array elements. The array elements are word type, sequenced in non decreasing order. Use the value array {0,2,5,9,10}. These value has a gaps of 2,3,4 and 1 which the total of 10
